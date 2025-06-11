@@ -1,0 +1,48 @@
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\bin\Debug\Database1.mdf
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\bin\Debug\Database1_log.ldf
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\bin\Debug\Орлов.exe.config
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\bin\Debug\Орлов.exe
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\bin\Debug\Орлов.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.Form1.resources
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.Properties.Resources.resources
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.exe
+C:\Users\anton\OneDrive\Рабочий стол\Орлов\Орлов\obj\Debug\Орлов.pdb
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\bin\Debug\Database1.mdf
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\bin\Debug\Database1_log.ldf
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\bin\Debug\Орлов.exe.config
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\bin\Debug\Орлов.exe
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\bin\Debug\Орлов.pdb
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.AssemblyReference.cache
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.Form1.resources
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.Properties.Resources.resources
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.GenerateResource.cache
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.CoreCompileInputs.cache
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.exe
+C:\Users\22_ИС-391к\Desktop\Орлов\Орлов\obj\Debug\Орлов.pdb
+C:\Users\pavel\Desktop\Орлов\Орлов\bin\Debug\Database1.mdf
+C:\Users\pavel\Desktop\Орлов\Орлов\bin\Debug\Database1_log.ldf
+C:\Users\pavel\Desktop\Орлов\Орлов\bin\Debug\Орлов.exe.config
+C:\Users\pavel\Desktop\Орлов\Орлов\bin\Debug\Орлов.exe
+C:\Users\pavel\Desktop\Орлов\Орлов\bin\Debug\Орлов.pdb
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.AssemblyReference.cache
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.Form1.resources
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.Properties.Resources.resources
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.GenerateResource.cache
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.CoreCompileInputs.cache
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.exe
+C:\Users\pavel\Desktop\Орлов\Орлов\obj\Debug\Орлов.pdb
+C:\Users\anton\Desktop\Орлов\Орлов\bin\Debug\Database1.mdf
+C:\Users\anton\Desktop\Орлов\Орлов\bin\Debug\Database1_log.ldf
+C:\Users\anton\Desktop\Орлов\Орлов\bin\Debug\Орлов.exe.config
+C:\Users\anton\Desktop\Орлов\Орлов\bin\Debug\Орлов.exe
+C:\Users\anton\Desktop\Орлов\Орлов\bin\Debug\Орлов.pdb
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.Form1.resources
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.Properties.Resources.resources
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.GenerateResource.cache
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.exe
+C:\Users\anton\Desktop\Орлов\Орлов\obj\Debug\Орлов.pdb

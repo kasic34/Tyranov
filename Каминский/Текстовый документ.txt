@@ -1,0 +1,29 @@
+        private void button4_Click_1(object sender, EventArgs e)
+
+        //Авторизация
+        {
+
+            Myconnection = new SqlConnection(ConnectString);
+            Myconnection.Open();
+            SqlCommand DataCommand = new SqlCommand("SELECT [Users].[FIO],[Users].[Login],[Users].[Password],[Roles].[Name] FROM Users INNER JOIN Roles ON [Users].[Role],",Myconnection);
+            DataCommand.Parameters.AddWithValue("@login", LoginAuth.Text);
+            DataCommand.Parameters.AddWithValue("@password", PasswordAuth.Text);
+
+            SqlDataReader Reader = DataCommand.ExecuteReader();
+
+
+            if (Reader.Read())
+            {
+                if (Reader[1].ToString() == LoginAuth.Text && Reader[2].ToString() == md5(PasswordAuth.Text))
+                {
+                    MessageBox.Show($"Уважаемый {Reader[0]}/nДобро пожаловать в систему!/nВаша роль:{Reader[3]}", "Сообщение", MessageBoxButtons.OK);
+                }
+                else
+                    MessageBox.Show("Такого пользователя нету", "Сообщение", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            Myconnection.Close();
+
+        }
+
+    }
+}    
