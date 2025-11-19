@@ -1,0 +1,14 @@
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\bin\Debug\HotelProject2.exe.config
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\bin\Debug\HotelProject2.exe
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\bin\Debug\HotelProject2.pdb
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.csproj.AssemblyReference.cache
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.Authorization.resources
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.Properties.Resources.resources
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.csproj.GenerateResource.cache
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.csproj.CoreCompileInputs.cache
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.exe
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.pdb
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.exe.config
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\bin\Debug\DatabaseHotel.mdf
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\bin\Debug\DatabaseHotel_log.ldf
+C:\Users\22_ИС-391к\source\repos\HotelProject2\HotelProject2\obj\Debug\HotelProject2.FormAdmin.resources
